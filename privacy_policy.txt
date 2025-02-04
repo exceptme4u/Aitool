@@ -1,0 +1,5 @@
+Privacy Policy Placeholder for Development App
+
+This is a placeholder privacy policy for a Facebook app created for learning and development purposes.
+No real user data is collected or processed in a production environment by this app in its current development stage.
+This policy is for demonstration purposes to meet Facebook App submission requirements.

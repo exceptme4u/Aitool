@@ -1,0 +1,4 @@
+Data Deletion Instructions Placeholder for Development App
+
+To request deletion of any data associated with this development Facebook app (if any were to be collected during testing), please contact: omerfarooqshahid3@gmail.com
+This is a placeholder for a development app and is for demonstration purposes to meet Facebook App submission requirements.
